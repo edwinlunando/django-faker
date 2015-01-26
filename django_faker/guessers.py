@@ -1,5 +1,6 @@
 import re
 
+
 class Name(object):
     def __init__(self, generator):
         """
